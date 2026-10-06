@@ -1,4 +1,3 @@
-# Configuracion-de-DNS-maestro-y-esclavo-con-BIND9-en-Debian-13
 # Configuración de DNS maestro y esclavo con BIND9 en Debian 13
 
 Guía práctica para configurar un servidor DNS **maestro/primario** y un servidor DNS **esclavo/secundario** con BIND9 en Debian GNU/Linux 13 (Trixie).
